@@ -1,4 +1,4 @@
-# LLM Chat (Flutter) — v2
+# LLM Chat (Flutter)
 
 **Updates in this build**
 - First-run prompt: automatically opens **Settings** on first launch until endpoint & API key are provided.
